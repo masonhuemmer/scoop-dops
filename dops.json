@@ -2,21 +2,21 @@
     "version": "0.13.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rundops/dops/releases/download/v0.13.1/dops_0.13.1_windows_amd64.zip",
+            "url": "https://github.com/masonhuemmer/dops/releases/download/v0.13.1/dops_0.13.1_windows_amd64.zip",
             "bin": [
                 "dops.exe"
             ],
             "hash": "0781d84bb13413cda9ecf61f034d2d54aaa747e2dad5b4486ca0d80bc7838e9a"
         },
         "arm64": {
-            "url": "https://github.com/rundops/dops/releases/download/v0.13.1/dops_0.13.1_windows_arm64.zip",
+            "url": "https://github.com/masonhuemmer/dops/releases/download/v0.13.1/dops_0.13.1_windows_arm64.zip",
             "bin": [
                 "dops.exe"
             ],
             "hash": "79995da7763164715a6276dcecd197cb61c4a8fd9e10217b3753c6f9b838a068"
         }
     },
-    "homepage": "https://github.com/rundops/dops",
+    "homepage": "https://github.com/masonhuemmer/dops",
     "license": "MIT",
     "description": "Developer Operations TUI — browse, parameterize, and execute runbooks from the terminal"
 }
